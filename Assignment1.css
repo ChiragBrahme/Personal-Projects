@@ -1,0 +1,83 @@
+.body{
+   margin:20px;
+}
+.book {
+   background-color: red;
+   height: 14%;
+   font-size-adjust: none;
+}
+
+#logo {
+    float:left;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 15px;
+    height:50px;
+    width: 50px;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 50px;
+}
+#him {
+   text-align: right;
+   font-family: poppins;
+   font-size: 20px;
+    margin-top:none;
+    float: right;
+   background-color: red;
+    margin-top: 2%;
+    
+}
+.pic{
+    background-image: url(iddli.png);
+    height: 430px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 53px;
+    margin-left: 116px;
+    margin-right: 123px
+
+}
+#text{
+    text-decoration-color: black;
+    text-decoration-style: solid;
+    font-size: 40px;
+    margin-left: 116px; 
+    
+}
+.boy{
+    margin-left: 116px
+}
+ #hero{
+    font-family: aerial;
+    text-align: left;
+    margin-left: 116px;
+    width: 100%;
+    height: 1px;
+    background position: bottom;
+     font-size: 30px;
+}   
+.first{
+    text-decoration-color: darkblue;    
+}
+.second{
+    
+    text-decoration-color: darkblue;
+    margin-left: 100px;
+}
+.table{
+    margin-left: 116px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
